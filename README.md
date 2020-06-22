@@ -12,4 +12,4 @@ This repositoy contains Arduino IDE projects for performance (speed) measurnig o
 
 -Sipeed MAix BiT (MBED_TLS_test01a_riscv, MBED_TLS_test02b_riscv)
 
-First direcory with "1a" in name contains project with SHA256, adn the second directory with "2b" in name contains project with HMAC.
+The first direcory with "1a" in name contains project with SHA256, adn the second directory with "2b" in name contains project with HMAC.
